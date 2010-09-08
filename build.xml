@@ -21,7 +21,7 @@
 	<target depends="build" name="jar">
 		<jar destfile="openslidejava.jar" basedir="bin">
 			<manifest>
-				<attribute name="Main-Class" value="edu.cmu.cs.openslide.gui.Demo"/>
+				<attribute name="Main-Class" value="org.openslide.gui.Demo"/>
 			</manifest>
 		</jar>
 

@@ -19,7 +19,7 @@
  *
  */
 
-package edu.cmu.cs.openslide;
+package org.openslide;
 
 class OpenSlideJNI {
     private OpenSlideJNI() {
